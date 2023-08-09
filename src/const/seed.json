@@ -1,0 +1,1282 @@
+[
+  {
+    "investment": [
+      {
+        "id": "48708f11-4182-4476-a38d-75a845d3be5e",
+        "amount": 25105,
+        "created_at": "2023-08-08T09:27:34.771Z",
+        "updated_at": "2023-08-08T22:51:46.643Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ff1b06b1-bcfb-4c17-ac02-803def1883d5",
+        "amount": 3203,
+        "created_at": "2023-08-08T21:08:36.446Z",
+        "updated_at": "2023-08-09T00:13:55.940Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "0c78bd9c-f39e-47f9-b26b-e7d98d15f435",
+        "amount": 3823,
+        "created_at": "2023-08-09T03:20:45.107Z",
+        "updated_at": "2023-08-08T20:48:49.591Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "beb515e1-0dbd-465c-bdbe-d6c1c4deff09",
+        "amount": 69741,
+        "created_at": "2023-08-08T19:38:15.607Z",
+        "updated_at": "2023-08-08T22:08:44.715Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "913d5049-4c03-4f3e-b086-508b6fc3fcf1",
+        "amount": 66055,
+        "created_at": "2023-08-09T07:15:38.396Z",
+        "updated_at": "2023-08-08T16:46:52.649Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "360ebfc4-f234-468d-9d28-4b4e75f38e69",
+        "amount": 17934,
+        "created_at": "2023-08-08T13:50:22.328Z",
+        "updated_at": "2023-08-08T16:45:58.542Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ea82c4ad-3aa4-4c32-87f7-705bfc462823",
+        "amount": 19115,
+        "created_at": "2023-08-08T13:37:32.639Z",
+        "updated_at": "2023-08-08T18:49:20.568Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6bcf6a7c-01db-411e-8b65-5913b1869a49",
+        "amount": 10599,
+        "created_at": "2023-08-08T13:41:18.997Z",
+        "updated_at": "2023-08-09T04:26:10.763Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "235a7215-8681-4f5b-99ad-e91ef48b9979",
+        "amount": 49465,
+        "created_at": "2023-08-08T14:03:33.445Z",
+        "updated_at": "2023-08-08T09:55:23.622Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5f8105d7-418c-489e-81bf-c1aee70a01e8",
+        "amount": 3681,
+        "created_at": "2023-08-08T13:21:31.181Z",
+        "updated_at": "2023-08-08T18:20:54.845Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "c642f223-27c7-46c4-87d4-120b45e356f2",
+        "email": "Tillman63@gmail.com",
+        "firstName": "Kariane",
+        "lastName": "Kunde",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87947672",
+        "tenantId": null
+      },
+      {
+        "reference": "7be185a3-58d5-4ddc-b063-5f52b91c4d57",
+        "email": "Nicolette.Lubowitz24@yahoo.com",
+        "firstName": "Allan",
+        "lastName": "Runte",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1004.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "58edc4df-5ea5-4dcf-a0ac-34620b599523",
+        "email": "Toby_Runte66@gmail.com",
+        "firstName": "Ines",
+        "lastName": "Lueilwitz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/603.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1f9acbcb-22e5-40c3-8907-d09dafa15a37",
+        "email": "Camylle43@yahoo.com",
+        "firstName": "Manuel",
+        "lastName": "Feest",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/62694796",
+        "tenantId": null
+      },
+      {
+        "reference": "d2d17722-8280-422a-9009-d2e0d3533fb7",
+        "email": "Elian.Hettinger58@hotmail.com",
+        "firstName": "Bette",
+        "lastName": "Schaefer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/690.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "bfa8ff40-6362-434d-9559-6d223332e35e",
+        "amount": 18121,
+        "created_at": "2023-08-09T01:35:01.605Z",
+        "updated_at": "2023-08-08T14:14:50.856Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "113dc428-5954-4742-b56a-56a43d8bae64",
+        "amount": 97094,
+        "created_at": "2023-08-08T21:08:47.170Z",
+        "updated_at": "2023-08-08T17:17:21.897Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5452caa5-4094-40b7-887a-efa9a4196497",
+        "amount": 30761,
+        "created_at": "2023-08-09T05:53:41.917Z",
+        "updated_at": "2023-08-08T18:40:14.237Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "73bcd1f7-c6fd-4f13-bf17-774e48086762",
+        "amount": 28517,
+        "created_at": "2023-08-09T03:49:05.137Z",
+        "updated_at": "2023-08-08T23:54:35.257Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "7b291ad5-4244-4079-ba65-eafb09e3d26a",
+        "amount": 49442,
+        "created_at": "2023-08-08T13:47:52.367Z",
+        "updated_at": "2023-08-09T05:27:35.915Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "c88f626a-b78a-41eb-88ce-6fa315a5bb3c",
+        "amount": 45784,
+        "created_at": "2023-08-09T03:18:21.186Z",
+        "updated_at": "2023-08-08T12:24:07.548Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "83d92781-a785-4caa-92b8-e9987dcbd778",
+        "amount": 42686,
+        "created_at": "2023-08-08T15:54:00.651Z",
+        "updated_at": "2023-08-08T14:58:06.339Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e468f0ba-1b85-4969-81b5-d4be41fffcde",
+        "amount": 55249,
+        "created_at": "2023-08-08T07:51:13.452Z",
+        "updated_at": "2023-08-08T15:41:56.929Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "f2a5573d-337b-4c3b-b995-5ec43d30b32f",
+        "amount": 14291,
+        "created_at": "2023-08-08T23:08:51.437Z",
+        "updated_at": "2023-08-08T13:04:02.337Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "0ecc4e6a-614d-4079-9380-1ae3f06d4cf3",
+        "amount": 34161,
+        "created_at": "2023-08-08T15:40:18.609Z",
+        "updated_at": "2023-08-09T05:45:46.608Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "afb37e33-6201-4f61-81c6-a8cbbfd395f0",
+        "email": "Kelley_Marvin23@hotmail.com",
+        "firstName": "Noble",
+        "lastName": "Hudson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/951.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2474ae39-c636-4a0a-bb14-1c118053e9ca",
+        "email": "Germaine64@yahoo.com",
+        "firstName": "Shana",
+        "lastName": "Armstrong",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1019.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9a2c6b21-3fcd-4c63-8416-ee6c0ec05d47",
+        "email": "Lloyd.Daniel34@hotmail.com",
+        "firstName": "Yesenia",
+        "lastName": "Veum",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13400072",
+        "tenantId": null
+      },
+      {
+        "reference": "792e99b6-b813-492e-ac9a-03dc96bef98b",
+        "email": "Sylvia40@gmail.com",
+        "firstName": "Columbus",
+        "lastName": "Mraz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/996.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cf6ad80b-1b05-4438-b6ea-4e83f1391397",
+        "email": "Francesca_Hagenes35@hotmail.com",
+        "firstName": "Neha",
+        "lastName": "Green",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/45.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "97a48e47-dfe1-4aba-86fd-f6275bcc9e38",
+        "amount": 58525,
+        "created_at": "2023-08-08T23:56:30.755Z",
+        "updated_at": "2023-08-09T00:34:50.050Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "f8a16b71-9a96-43b6-a01c-63e908bec14f",
+        "amount": 63346,
+        "created_at": "2023-08-08T19:28:12.724Z",
+        "updated_at": "2023-08-09T04:00:44.945Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "fbcd5bc1-b50a-4df6-8ea2-8b24cfaf9474",
+        "amount": 92879,
+        "created_at": "2023-08-09T05:00:22.826Z",
+        "updated_at": "2023-08-08T18:57:23.965Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4d8b463a-80ca-44e9-adef-8411b8f2364e",
+        "amount": 48789,
+        "created_at": "2023-08-08T19:48:53.741Z",
+        "updated_at": "2023-08-08T21:03:15.397Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5a5304d2-1ba3-4412-87ad-60341013936a",
+        "amount": 60428,
+        "created_at": "2023-08-08T23:10:59.188Z",
+        "updated_at": "2023-08-09T02:59:57.034Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "d2747ad1-d86c-4d2a-8308-86563494a0d9",
+        "amount": 86745,
+        "created_at": "2023-08-08T22:28:06.737Z",
+        "updated_at": "2023-08-08T21:30:21.917Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "94183680-4bb2-43bd-9f0d-41607ed1a33e",
+        "amount": 21672,
+        "created_at": "2023-08-08T09:14:34.693Z",
+        "updated_at": "2023-08-08T16:23:27.267Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e7d96273-b945-487b-9711-fd70fd937003",
+        "amount": 79676,
+        "created_at": "2023-08-08T20:06:16.283Z",
+        "updated_at": "2023-08-09T05:03:07.223Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4533c5b5-15b7-4ca2-bae7-a0f5066423ea",
+        "amount": 48374,
+        "created_at": "2023-08-08T16:47:07.845Z",
+        "updated_at": "2023-08-09T01:57:31.021Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "51edb678-8d3d-4548-bd89-f5ead60c33b8",
+        "amount": 82644,
+        "created_at": "2023-08-08T12:56:46.382Z",
+        "updated_at": "2023-08-09T04:57:20.471Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "4251b360-146b-4132-952f-d122ad70aacb",
+        "email": "Sierra61@hotmail.com",
+        "firstName": "Danny",
+        "lastName": "Schowalter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/726.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a2d26849-97f8-430b-a9b0-2e8f5d7106c1",
+        "email": "Augustine.Paucek@gmail.com",
+        "firstName": "Archibald",
+        "lastName": "Kohler-Lesch",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1069.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "93e6a61f-ddfc-451f-8417-5ee26e8e2a4f",
+        "email": "Bertrand_Pfeffer89@hotmail.com",
+        "firstName": "Bessie",
+        "lastName": "Satterfield",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60296288",
+        "tenantId": null
+      },
+      {
+        "reference": "477fb365-7624-41a7-91e0-12c876a3a8eb",
+        "email": "Zechariah51@gmail.com",
+        "firstName": "Robin",
+        "lastName": "Bashirian",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61174047",
+        "tenantId": null
+      },
+      {
+        "reference": "7a925545-9cfd-42f9-bb10-d3258f443505",
+        "email": "Elyssa24@hotmail.com",
+        "firstName": "Crawford",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66554131",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "bdba5ecd-976d-4a9d-abaf-5362a12db40b",
+        "amount": 17805,
+        "created_at": "2023-08-08T14:54:58.263Z",
+        "updated_at": "2023-08-08T11:51:58.485Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ce8d4576-4665-4ce9-8267-3f7531a4b349",
+        "amount": 45339,
+        "created_at": "2023-08-09T00:43:01.679Z",
+        "updated_at": "2023-08-09T01:53:57.126Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "79d59e00-55d1-4a1c-8d90-5a8a24dffaf6",
+        "amount": 18226,
+        "created_at": "2023-08-08T08:51:38.917Z",
+        "updated_at": "2023-08-08T15:12:26.480Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e296f755-3238-4d97-93c3-060d66d0c912",
+        "amount": 22066,
+        "created_at": "2023-08-09T05:05:50.942Z",
+        "updated_at": "2023-08-08T09:30:52.184Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e300d193-b45e-4b30-aedb-c091fe22429b",
+        "amount": 22211,
+        "created_at": "2023-08-08T17:08:45.553Z",
+        "updated_at": "2023-08-08T18:52:10.435Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "fd2202f6-7e98-41ef-ac40-9fd1494eb95f",
+        "amount": 90220,
+        "created_at": "2023-08-08T21:46:10.777Z",
+        "updated_at": "2023-08-08T16:13:35.742Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "fdb4efbc-76fe-4e94-bb55-6c5f868bac66",
+        "amount": 99069,
+        "created_at": "2023-08-08T09:25:28.646Z",
+        "updated_at": "2023-08-09T05:52:25.708Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1552c066-f67a-4d22-8961-732c06d549c6",
+        "amount": 6927,
+        "created_at": "2023-08-09T00:08:00.685Z",
+        "updated_at": "2023-08-08T09:27:20.855Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "b1e8b8ed-686d-4188-9f4e-cf7260e6cc98",
+        "amount": 11000,
+        "created_at": "2023-08-08T20:58:07.197Z",
+        "updated_at": "2023-08-08T11:41:38.916Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ed9ab1f6-1155-4f2c-a12d-79737ccff4a9",
+        "amount": 30599,
+        "created_at": "2023-08-08T21:45:20.407Z",
+        "updated_at": "2023-08-09T01:31:08.295Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b428b3f0-d6b2-44d8-9acc-c81ed32b21a3",
+        "email": "Leone.Wolf19@gmail.com",
+        "firstName": "Lois",
+        "lastName": "Veum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1038.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d7756a2a-06c3-4901-8c1c-1f378db2a151",
+        "email": "Ted_Reichel9@hotmail.com",
+        "firstName": "Dewitt",
+        "lastName": "Goldner",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/66159619",
+        "tenantId": null
+      },
+      {
+        "reference": "298800f4-34b0-4d6f-a97c-10e410f24a07",
+        "email": "Diego.Blanda64@hotmail.com",
+        "firstName": "Verona",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57927418",
+        "tenantId": null
+      },
+      {
+        "reference": "f9f35a8c-bd19-4892-9ac3-c99ba643ffef",
+        "email": "Cecile39@yahoo.com",
+        "firstName": "Ima",
+        "lastName": "Glover-Lehner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/662.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "5a25e2a3-8e58-428f-81f7-9441b8c93039",
+        "email": "Birdie49@hotmail.com",
+        "firstName": "Seamus",
+        "lastName": "Schmitt",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43525560",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "21e4d1d2-e858-4a1e-966b-652f93c7b9d4",
+        "amount": 23772,
+        "created_at": "2023-08-08T16:45:01.586Z",
+        "updated_at": "2023-08-08T20:28:51.812Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "257b05bc-957c-4542-b741-3a432cdb7222",
+        "amount": 57394,
+        "created_at": "2023-08-08T15:33:57.051Z",
+        "updated_at": "2023-08-08T16:19:51.049Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "60d93769-b062-42b3-9629-44e440ea4118",
+        "amount": 14155,
+        "created_at": "2023-08-08T18:39:43.946Z",
+        "updated_at": "2023-08-08T17:18:12.032Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e6217909-44d0-4835-95b4-19254914c9fd",
+        "amount": 50662,
+        "created_at": "2023-08-08T14:07:17.250Z",
+        "updated_at": "2023-08-08T22:56:40.306Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "666dadf1-5bbf-4383-91d9-34986f41c57b",
+        "amount": 730,
+        "created_at": "2023-08-08T22:15:47.216Z",
+        "updated_at": "2023-08-08T12:51:19.603Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "709d896c-7977-43dc-8e2c-fc2505865c4e",
+        "amount": 58337,
+        "created_at": "2023-08-08T22:23:44.282Z",
+        "updated_at": "2023-08-09T02:31:09.359Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "d1df41fd-3e02-43c8-b65e-d260b32eb28b",
+        "amount": 13519,
+        "created_at": "2023-08-09T00:10:53.707Z",
+        "updated_at": "2023-08-08T09:35:33.192Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "395f80ff-a90c-4a1d-b731-0937986e5dfe",
+        "amount": 92988,
+        "created_at": "2023-08-08T21:52:34.075Z",
+        "updated_at": "2023-08-09T01:35:44.478Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a128205c-cf65-438c-8bc6-1e83911206cc",
+        "amount": 72724,
+        "created_at": "2023-08-08T21:47:25.683Z",
+        "updated_at": "2023-08-08T11:22:22.284Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e2161a45-fd2a-47a6-bf2a-8512afee94b7",
+        "amount": 16035,
+        "created_at": "2023-08-08T18:35:01.100Z",
+        "updated_at": "2023-08-08T21:04:03.391Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "13a2d45f-09ea-41fa-9ba3-46f65adb6903",
+        "email": "Marcelo.Hermiston@yahoo.com",
+        "firstName": "Bessie",
+        "lastName": "Hilpert",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43539315",
+        "tenantId": null
+      },
+      {
+        "reference": "e8982baf-35bf-4846-bdb5-32f3dbddc94a",
+        "email": "Jon_Daniel53@hotmail.com",
+        "firstName": "Marquise",
+        "lastName": "Rowe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1084.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "11a380b3-30d0-4ec9-9142-167bc104a3f8",
+        "email": "Kelly_Armstrong@hotmail.com",
+        "firstName": "Mac",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/13440219",
+        "tenantId": null
+      },
+      {
+        "reference": "9a9f7415-3ef3-49b9-a5f1-ce7293f09c0f",
+        "email": "Vernie_Reinger@hotmail.com",
+        "firstName": "Jonathan",
+        "lastName": "Franey",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1188.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "cb943771-2a12-4d8f-ba37-f20758076078",
+        "email": "Orville.Pfeffer77@gmail.com",
+        "firstName": "Kristina",
+        "lastName": "Heller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/797.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "cd11c2e8-94f0-4f29-843f-43d2ccfab665",
+        "amount": 21917,
+        "created_at": "2023-08-08T13:22:24.020Z",
+        "updated_at": "2023-08-08T22:21:52.238Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "f58cb799-6eaa-4253-86c2-3b8e67048e92",
+        "amount": 85104,
+        "created_at": "2023-08-08T17:13:52.769Z",
+        "updated_at": "2023-08-08T21:34:28.324Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1b2ab073-7803-4040-8f81-65cc96725b49",
+        "amount": 18783,
+        "created_at": "2023-08-08T21:08:32.374Z",
+        "updated_at": "2023-08-09T06:14:44.756Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a1ec3566-abdf-4ae7-9715-7982837eb444",
+        "amount": 47694,
+        "created_at": "2023-08-08T16:20:07.290Z",
+        "updated_at": "2023-08-08T21:24:37.982Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5ce47d07-5ce4-4fe6-9e61-69ae96803d2d",
+        "amount": 14007,
+        "created_at": "2023-08-08T22:47:07.135Z",
+        "updated_at": "2023-08-09T05:09:46.092Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "b7b8d7bd-48ce-473a-a993-e652ff995e17",
+        "amount": 56221,
+        "created_at": "2023-08-09T05:37:29.788Z",
+        "updated_at": "2023-08-08T22:33:59.053Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "10ded5da-f531-48c1-a696-99170a3f1508",
+        "amount": 90205,
+        "created_at": "2023-08-08T08:51:05.528Z",
+        "updated_at": "2023-08-09T06:39:38.998Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "fe541edc-88d8-4651-92c6-29c0f899d292",
+        "amount": 44118,
+        "created_at": "2023-08-09T00:13:05.004Z",
+        "updated_at": "2023-08-08T08:25:11.076Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "688e11ed-ff24-4fb0-a22f-9af2b33c1102",
+        "amount": 61385,
+        "created_at": "2023-08-08T16:01:09.298Z",
+        "updated_at": "2023-08-08T22:07:45.427Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "65a4dcaf-bd78-4869-a816-41e422429621",
+        "amount": 78493,
+        "created_at": "2023-08-09T01:31:18.729Z",
+        "updated_at": "2023-08-09T05:10:53.390Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ffe0d0f0-960f-4a3b-a141-a402aa03ec53",
+        "email": "Maudie_Rohan45@yahoo.com",
+        "firstName": "Alec",
+        "lastName": "Ritchie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1248.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6e895dc8-7a35-494a-aedb-a54b003561ff",
+        "email": "Malinda.Bernhard30@hotmail.com",
+        "firstName": "Lola",
+        "lastName": "Rohan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/824.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "febe4bcd-e474-4b76-b537-79bd05e35940",
+        "email": "Candace.Huel64@yahoo.com",
+        "firstName": "Geovanni",
+        "lastName": "Bosco",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/799.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7ae04cf6-45fb-4306-b456-5505eeca5b7a",
+        "email": "Katharina.Considine-Spencer70@hotmail.com",
+        "firstName": "Renee",
+        "lastName": "Daugherty",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/136.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8b590a8f-4ca2-467d-8cc3-f552ea5e36d6",
+        "email": "Hugh75@yahoo.com",
+        "firstName": "Oma",
+        "lastName": "Metz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/270.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "80148f52-9406-4534-96a0-6cefe3ece1c9",
+        "amount": 88209,
+        "created_at": "2023-08-08T08:20:35.094Z",
+        "updated_at": "2023-08-08T22:39:10.621Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "80b924fd-5e54-434b-a062-04a3224679b6",
+        "amount": 70846,
+        "created_at": "2023-08-09T03:11:05.799Z",
+        "updated_at": "2023-08-08T15:37:32.933Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9ba6d67c-7ae2-42c2-94de-5393d60ff856",
+        "amount": 87473,
+        "created_at": "2023-08-08T16:13:04.477Z",
+        "updated_at": "2023-08-09T01:26:58.664Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "0ccdd7cf-ae6f-4098-93bb-43f7e3a7c79c",
+        "amount": 15559,
+        "created_at": "2023-08-09T04:39:04.460Z",
+        "updated_at": "2023-08-08T23:54:23.275Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "4bdff2b9-cfcb-4434-ace7-3c297db22b6a",
+        "amount": 31559,
+        "created_at": "2023-08-08T17:22:56.328Z",
+        "updated_at": "2023-08-08T22:27:34.582Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "a817c979-dfbe-4c8a-ae1d-cc1523ec830a",
+        "amount": 3196,
+        "created_at": "2023-08-08T16:11:12.482Z",
+        "updated_at": "2023-08-08T11:05:41.722Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5765d18f-6411-4295-ae88-f8f9639cbb73",
+        "amount": 38372,
+        "created_at": "2023-08-08T17:38:40.754Z",
+        "updated_at": "2023-08-09T03:05:39.605Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "16e48681-aeb3-4d17-9d35-55d5f2753819",
+        "amount": 7213,
+        "created_at": "2023-08-08T08:27:21.912Z",
+        "updated_at": "2023-08-09T04:09:09.714Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "7f9820b3-1dce-4a93-bb62-b00731cdddda",
+        "amount": 57160,
+        "created_at": "2023-08-08T13:31:06.922Z",
+        "updated_at": "2023-08-08T19:06:19.024Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "b12b3803-d2ea-4cf5-a229-345db9a51583",
+        "amount": 61629,
+        "created_at": "2023-08-09T07:27:17.275Z",
+        "updated_at": "2023-08-08T08:59:05.488Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "81f81a8e-9b90-481f-9755-e2066c9a69b8",
+        "email": "Watson17@gmail.com",
+        "firstName": "Gloria",
+        "lastName": "Lindgren",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/24162567",
+        "tenantId": null
+      },
+      {
+        "reference": "c8815733-5879-4360-ba83-caaae0d11acb",
+        "email": "Gonzalo.Schmidt@yahoo.com",
+        "firstName": "Lisandro",
+        "lastName": "Cruickshank",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/268.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "129574cd-0478-4130-b7a1-99ef4020ccbe",
+        "email": "Nona_Hackett47@yahoo.com",
+        "firstName": "Adelle",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1132.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "dba83295-d77c-46b9-9c71-cadefff925f8",
+        "email": "Vincent.Daugherty51@hotmail.com",
+        "firstName": "Scotty",
+        "lastName": "Gottlieb",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1219.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c5ab352e-556b-478d-9a8f-030b2e7adc87",
+        "email": "Maud13@gmail.com",
+        "firstName": "Raymundo",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/48.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "e6c10d3f-6adc-45e9-85ae-153d194ab5cd",
+        "amount": 67576,
+        "created_at": "2023-08-08T10:17:31.625Z",
+        "updated_at": "2023-08-08T19:26:05.935Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "019dc13e-4832-40b1-b7f6-341c3dd58f11",
+        "amount": 67293,
+        "created_at": "2023-08-09T02:06:23.416Z",
+        "updated_at": "2023-08-08T08:07:24.856Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "d70b3d52-1bb3-4cf6-b247-a95a3d4a00a6",
+        "amount": 18050,
+        "created_at": "2023-08-08T16:08:50.728Z",
+        "updated_at": "2023-08-09T07:26:28.830Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "cfd12bb9-bfbb-4f69-b285-1a2bd32b4f28",
+        "amount": 87162,
+        "created_at": "2023-08-08T18:14:57.372Z",
+        "updated_at": "2023-08-08T17:00:46.554Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1f42e0ec-eded-48f9-8bb4-60c5e06179ec",
+        "amount": 15811,
+        "created_at": "2023-08-09T02:51:17.693Z",
+        "updated_at": "2023-08-08T10:04:58.156Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "117667d5-9d71-4862-a68d-8938fd7b530f",
+        "amount": 53377,
+        "created_at": "2023-08-09T07:16:00.054Z",
+        "updated_at": "2023-08-08T17:31:11.937Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "a1542e3b-aaa7-4e1b-adc5-63e075874487",
+        "amount": 24010,
+        "created_at": "2023-08-08T14:45:09.700Z",
+        "updated_at": "2023-08-09T00:35:41.789Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6ec4b20d-c541-4087-b4b3-58b61fddda87",
+        "amount": 67671,
+        "created_at": "2023-08-09T04:33:43.467Z",
+        "updated_at": "2023-08-08T19:08:36.835Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "e5f7b957-cf4d-489d-8946-07350854fdc1",
+        "amount": 71448,
+        "created_at": "2023-08-08T18:31:09.315Z",
+        "updated_at": "2023-08-08T10:17:23.829Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6d22890d-4110-42c4-8505-1037f15786bc",
+        "amount": 51713,
+        "created_at": "2023-08-09T01:48:25.568Z",
+        "updated_at": "2023-08-08T12:25:28.701Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "fa8acace-c8fb-4cf3-bbfe-8163408bdf3c",
+        "email": "Retta.Greenholt@gmail.com",
+        "firstName": "Kavon",
+        "lastName": "Crona",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/699.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ecae9b1e-2aa0-497d-afd6-2bf9399565ed",
+        "email": "Tobin80@hotmail.com",
+        "firstName": "Verda",
+        "lastName": "Fahey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63073280",
+        "tenantId": null
+      },
+      {
+        "reference": "ec8dc75e-4f61-4d99-8641-65652e67a656",
+        "email": "Hollis_Farrell55@hotmail.com",
+        "firstName": "Camden",
+        "lastName": "Satterfield-Rohan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/130.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "321f4e5d-7558-4f5e-b988-bc97023ba67e",
+        "email": "Vallie93@yahoo.com",
+        "firstName": "Brock",
+        "lastName": "Grimes",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37563513",
+        "tenantId": null
+      },
+      {
+        "reference": "2b4f0da6-dcee-4242-8687-7eb9bc93eef4",
+        "email": "Keara_Boehm21@hotmail.com",
+        "firstName": "Curt",
+        "lastName": "Block",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94315638",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "51cd6742-81bf-4c51-9658-d7ac4f673606",
+        "amount": 72813,
+        "created_at": "2023-08-08T12:00:24.527Z",
+        "updated_at": "2023-08-08T22:36:39.752Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "ee8b408f-075c-4723-a10e-dae04589c721",
+        "amount": 50463,
+        "created_at": "2023-08-08T19:38:53.885Z",
+        "updated_at": "2023-08-09T00:49:27.556Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1079a438-a225-40cf-a661-77615acc9f30",
+        "amount": 15377,
+        "created_at": "2023-08-08T12:54:16.061Z",
+        "updated_at": "2023-08-08T08:35:50.883Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9db5cbd3-e854-441a-8277-f9724c1987f2",
+        "amount": 95986,
+        "created_at": "2023-08-08T17:35:13.221Z",
+        "updated_at": "2023-08-08T07:53:32.985Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "84f60a9a-f994-4fe6-80fd-d5f938322b30",
+        "amount": 52640,
+        "created_at": "2023-08-08T21:16:26.084Z",
+        "updated_at": "2023-08-08T13:21:52.292Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "8da6d6a8-58df-4c63-adb2-208a4f45110e",
+        "amount": 95821,
+        "created_at": "2023-08-08T13:40:26.410Z",
+        "updated_at": "2023-08-08T12:30:27.904Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "3840dd76-7ebc-408e-9e6d-a667a5833ec2",
+        "amount": 97734,
+        "created_at": "2023-08-08T19:06:18.310Z",
+        "updated_at": "2023-08-09T01:14:32.444Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "5e82e52d-bf56-4e53-be09-c39f70eb2940",
+        "amount": 95822,
+        "created_at": "2023-08-08T12:59:50.643Z",
+        "updated_at": "2023-08-08T14:51:13.900Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9cbcfb83-420f-45d6-8d9a-e0ba7115fe92",
+        "amount": 2538,
+        "created_at": "2023-08-09T06:19:27.264Z",
+        "updated_at": "2023-08-09T06:22:20.863Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "6493ae3a-5881-4c03-923b-46c1a2ad4666",
+        "amount": 54623,
+        "created_at": "2023-08-08T11:23:04.592Z",
+        "updated_at": "2023-08-09T00:17:16.658Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8373fd97-5b13-4570-a92e-528a864fb5a2",
+        "email": "Golda.Walker13@yahoo.com",
+        "firstName": "Shyanne",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/225.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e465f34b-2140-4c95-ad22-2f053c03ab8d",
+        "email": "Lavon_Herzog84@gmail.com",
+        "firstName": "Adam",
+        "lastName": "Koelpin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1227.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8d1694c7-0343-4056-8bdf-5296656cd58c",
+        "email": "Esteban_Thiel@yahoo.com",
+        "firstName": "Orin",
+        "lastName": "Hansen",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1192.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2a800423-89f8-4a90-a9bb-aa4dc437940e",
+        "email": "Adelle31@hotmail.com",
+        "firstName": "Lacey",
+        "lastName": "Schuppe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1053.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "be42fed6-6231-4940-8b19-1b44adc43916",
+        "email": "Ricardo.Hirthe@yahoo.com",
+        "firstName": "Hilma",
+        "lastName": "Williamson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/115.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "investment": [
+      {
+        "id": "381a5d80-d568-4931-8e42-f01afbca5f08",
+        "amount": 61738,
+        "created_at": "2023-08-09T03:27:28.829Z",
+        "updated_at": "2023-08-09T07:01:59.928Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "aa7a0c3e-414e-47a5-8aab-0fd0db54480d",
+        "amount": 21802,
+        "created_at": "2023-08-08T16:24:54.790Z",
+        "updated_at": "2023-08-08T11:17:27.584Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9148e6f2-3b26-48f6-95c0-952c4a466853",
+        "amount": 34715,
+        "created_at": "2023-08-08T18:12:14.304Z",
+        "updated_at": "2023-08-09T05:55:15.931Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "072d0d37-df99-4e04-a004-30d9fa9d7758",
+        "amount": 53216,
+        "created_at": "2023-08-08T16:54:01.537Z",
+        "updated_at": "2023-08-08T09:52:53.975Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "473968e3-81fc-45b7-8715-df6e70901b5b",
+        "amount": 91990,
+        "created_at": "2023-08-08T20:18:51.488Z",
+        "updated_at": "2023-08-09T04:16:35.970Z",
+        "investor_id": "user_entity_pk",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "capital_requirement": [
+      {
+        "id": "fc4443fd-b485-4951-bab2-aa011d1b9c23",
+        "amount": 51918,
+        "created_at": "2023-08-09T00:26:51.961Z",
+        "updated_at": "2023-08-08T07:47:14.628Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "9446f60d-b389-4485-9811-57c116329ab1",
+        "amount": 39115,
+        "created_at": "2023-08-08T08:05:43.259Z",
+        "updated_at": "2023-08-09T04:47:35.314Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "cdce2f8a-faca-4e11-a9b7-11ead24a412c",
+        "amount": 81162,
+        "created_at": "2023-08-08T23:54:16.956Z",
+        "updated_at": "2023-08-08T20:48:41.002Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "36db4430-310f-44dc-94bd-09fcc4eaa902",
+        "amount": 22416,
+        "created_at": "2023-08-08T19:33:20.637Z",
+        "updated_at": "2023-08-09T02:44:56.163Z",
+        "startup_id": "main_entity_pk"
+      },
+      {
+        "id": "1109cd3c-0097-4f39-9f69-ebed9e22b914",
+        "amount": 1398,
+        "created_at": "2023-08-08T12:12:23.456Z",
+        "updated_at": "2023-08-08T21:48:50.376Z",
+        "startup_id": "main_entity_pk"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7cf15025-e82a-4bf2-a645-91f172076857",
+        "email": "Karolann54@hotmail.com",
+        "firstName": "Jed",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60797266",
+        "tenantId": null
+      },
+      {
+        "reference": "46a9a6a1-647c-4625-b122-ac142c0bff60",
+        "email": "Euna.Runte78@gmail.com",
+        "firstName": "Lorena",
+        "lastName": "Klein",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/92117280",
+        "tenantId": null
+      },
+      {
+        "reference": "0890b570-726c-4ee4-8a7a-bae12dea301c",
+        "email": "Katelin.Lindgren17@yahoo.com",
+        "firstName": "Caitlyn",
+        "lastName": "Swift",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/307.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "75288e57-a698-46d0-ad76-242948c3ef1b",
+        "email": "Cortney_Aufderhar@hotmail.com",
+        "firstName": "Frida",
+        "lastName": "Kris",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/5996167",
+        "tenantId": null
+      },
+      {
+        "reference": "edd398e4-ffe2-4852-a9a7-1ecc8d42e19d",
+        "email": "Etha.Mayer@gmail.com",
+        "firstName": "Milan",
+        "lastName": "Moore",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75197027",
+        "tenantId": null
+      }
+    ]
+  }
+]
